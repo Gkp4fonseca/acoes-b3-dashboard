@@ -1,0 +1,8 @@
+[theme]
+base = "dark"
+primaryColor = "#00ffcc"         # Cor dos botões e elementos principais
+backgroundColor = "#0e1117"      # Fundo da página
+secondaryBackgroundColor = "#262730"  # Fundo de caixas e painéis
+textColor = "#ffffff"            # Cor do texto
+font = "sans serif"
+
