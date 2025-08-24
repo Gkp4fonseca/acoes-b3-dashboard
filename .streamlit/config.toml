@@ -1,6 +1,6 @@
 [theme]
 base = "dark"
-primaryColor = "#FFFFFF"
+primaryColor = "#FF0000"  # vermelho puro
 backgroundColor = "#000000"
 secondaryBackgroundColor = "#1A1A1A"
 textColor = "#FFFFFF"
